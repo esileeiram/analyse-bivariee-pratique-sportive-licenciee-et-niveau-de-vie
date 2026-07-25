@@ -21,7 +21,7 @@ Outil utilisé : Excel (formules natives).
 |---|---|
 | Corrélation (Pearson) | 0,121 |
 | Coefficient de détermination (R²) | 0,015 |
-| Pente | +2,2 points de taux de pratique pour +10 000 € de revenu médian |
+| Pente | 1,1 points de taux de pratique pour +5 000€ de revenu médian |
 | Ordonnée | 0,202 |
  
 La relation entre revenu médian départemental et taux de pratique sportive licenciée globale est **très faible** (R² = 1,5 %) : le revenu n'explique quasiment pas les écarts de pratique sportive licenciée entre départements.
