@@ -13,7 +13,7 @@ Les deux sources ont été fusionnées par code département (RECHERCHEV).
 - Nuage de points (revenu médian en X, taux de pratique en Y)
 - Covariance
 - Coefficient de corrélation de Pearson
-- Régression linéaire simple
+- Régression linéaire simple  
 Outil utilisé : Excel (formules natives).
  
 ## Résultats clés
